@@ -1,0 +1,21 @@
+{
+  "name": "Techno-Nexus Academy",
+  "short_name": "TechnoNexus",
+  "description": "Learn coding in Calabar - Online & Offline classes",
+  "start_url": "/pages/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "images/Technonexusacademy.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/Technonexusacademy.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
